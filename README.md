@@ -19,7 +19,7 @@ Hi there, my name is Jiarui (it pronouces as "Jah-Ray", with the "J" as in "jam"
 
 I am a ML Engineer / Quant Developer lead at a Bulge Bracket bank, where I led a team of engineers to develop intenral frameowrks for model development, implementation and deployment. We also build internal analytical tools to support variaous areas of the business.
 
-I have also worked as a Data Scientist in a FinTech before, where I have built the end-to-end machine learning systems for credit decision models. 
+I have also worked as a Data Scientist in a FinTech company before, where I have built the end-to-end machine learning systems for credit decision models. 
 
 #### Community Organiser
 
@@ -52,7 +52,7 @@ Back in 2016, I finished my PhD in [Mathsmatics at Warwick University](https://w
 
 My reaserch was in the area of complex systems. Where I have investigated certain types of interacting particle systems. You can find my thesis [here](https://wrap.warwick.ac.uk/id/eprint/77674/). 
 
-I also has a master in Financial Maths and an undergraduate in statistics. So, I was pretty much trained as a mathematician. 
+I also have a master in Financial Maths and an undergraduate in statistics. So, I was pretty much trained as a mathematician. 
 
 
  
